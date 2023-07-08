@@ -20,7 +20,7 @@ img {
     float: left;
     margin-left: 5%;
     margin-top: 5px;
-    font-family: Century Gothic;
+    font-family: Helvetica;
     font-size: large;
     cursor: pointer;
     
@@ -30,7 +30,7 @@ img {
 }
 .Search {
     position: absolute;
-    top: 4px;
+    top: 15%;
     right:3.5%;
     height: 20px;
     background-color: rgb(153, 148, 148);
